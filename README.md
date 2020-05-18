@@ -17,9 +17,10 @@
 
     <div class="main">
       <div class="main-header">
-        <img src="fcb3db11a3c5043ed965e9dd62c3ee04.jpg">
-        <h2>　テキストテキストテキスト</h2>
-        <p>　テキストテキストテキストテキストテキストテキストテキストテキスト</p>
+        <p>
+          <img src="fcb3db11a3c5043ed965e9dd62c3ee04.jpg" align="top"> テキストテキストテキストテキスト
+        </p>
+        <h4>　テキストテキストテキスト</h4>
       </div>
       <div class="main-contents">
         <figure class="main-box">
