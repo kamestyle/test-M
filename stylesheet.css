@@ -17,6 +17,8 @@ figure.main-box {
   float: left;
   padding-right: 20px;
 }
+figure.main-box img {
+  width: 150px;
 
 figcaption {
   font-size: 40px;
