@@ -15,10 +15,9 @@ span{
 }
 figure.main-box {
   float: left;
-  padding-right: 20px;
+  padding-right: 10px;
 }
-figure.main-box img {
-  width: 250px;
+
 
 figcaption {
   font-size: 40px;
